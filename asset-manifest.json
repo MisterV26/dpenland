@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/MisterV26/dpenland/static/css/main.d9210b73.chunk.css",
+    "main.js": "/MisterV26/dpenland/static/js/main.33532a07.chunk.js",
+    "main.js.map": "/MisterV26/dpenland/static/js/main.33532a07.chunk.js.map",
+    "runtime-main.js": "/MisterV26/dpenland/static/js/runtime-main.dae4bf41.js",
+    "runtime-main.js.map": "/MisterV26/dpenland/static/js/runtime-main.dae4bf41.js.map",
+    "static/css/2.8c0e6b67.chunk.css": "/MisterV26/dpenland/static/css/2.8c0e6b67.chunk.css",
+    "static/js/2.d3e6a82e.chunk.js": "/MisterV26/dpenland/static/js/2.d3e6a82e.chunk.js",
+    "static/js/2.d3e6a82e.chunk.js.map": "/MisterV26/dpenland/static/js/2.d3e6a82e.chunk.js.map",
+    "static/js/3.0b7e4a23.chunk.js": "/MisterV26/dpenland/static/js/3.0b7e4a23.chunk.js",
+    "static/js/3.0b7e4a23.chunk.js.map": "/MisterV26/dpenland/static/js/3.0b7e4a23.chunk.js.map",
+    "index.html": "/MisterV26/dpenland/index.html",
+    "static/css/2.8c0e6b67.chunk.css.map": "/MisterV26/dpenland/static/css/2.8c0e6b67.chunk.css.map",
+    "static/css/main.d9210b73.chunk.css.map": "/MisterV26/dpenland/static/css/main.d9210b73.chunk.css.map",
+    "static/js/2.d3e6a82e.chunk.js.LICENSE.txt": "/MisterV26/dpenland/static/js/2.d3e6a82e.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/MisterV26/dpenland/static/media/codeImage.00924ccb.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dae4bf41.js",
+    "static/css/2.8c0e6b67.chunk.css",
+    "static/js/2.d3e6a82e.chunk.js",
+    "static/css/main.d9210b73.chunk.css",
+    "static/js/main.33532a07.chunk.js"
+  ]
+}
